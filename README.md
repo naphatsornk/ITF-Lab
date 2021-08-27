@@ -1,2 +1,3 @@
-echo # ITF-Lab
-# ITF-Lab
+# ITF-Lab 2018
+## Author
+นภัสสร คงงาม 64070053
